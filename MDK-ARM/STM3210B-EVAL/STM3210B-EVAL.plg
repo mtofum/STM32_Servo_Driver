@@ -1,0 +1,256 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\Project.uvproj
+Project File Date:  12/21/2011
+
+<h2>Output:</h2>
+Build target 'STM3210B-EVAL'
+compiling stm32f10x_it.c...
+compiling main.c...
+compiling stm32f10x_1602.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_gpio.c...
+compiling misc.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_i2c.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=1624 RO-data=268 RW-data=4 ZI-data=1028  
+FromELF: creating hex file...
+".\STM3210B-EVAL\STM3210B-EVAL.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Internal DLL Error
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Jul 26 2011 17:31:24
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.
+Load "E:\\mcu\\my MCU program\\STM32\\STM32F10x_StdPeriph_Lib_V3.3.0\\Project\\自定义标准模板\\MDK-ARM\\STM3210B-EVAL\\STM3210B-EVAL.AXF" 
+Set JLink Project File to "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.28 , compiled Jun 16 2011 17:41:05
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Could not measure total IR len. TDO is constant high.
+**JLink Warning: CPU core not found.

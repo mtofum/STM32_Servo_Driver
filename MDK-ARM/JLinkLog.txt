@@ -1,0 +1,24 @@
+
+T14D8 000:473 SEGGER J-Link V4.28 Log File (0000ms, 0471ms total)
+T14D8 000:473 DLL Compiled: Jun 16 2011 17:41:05 (0000ms, 0471ms total)
+T14D8 000:473 Logging started @ 2012-03-10 14:06 (0000ms, 0471ms total)
+T14D8 000:473 JLINK_SetWarnOutHandler(...) (0000ms, 0471ms total)
+T14D8 000:473 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Feb  8 2012 14:30:39
+Hardware: V8.00
+S/N: 20100214
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0224ms, 0471ms total)
+T14D8 000:697 JLINK_SetErrorOutHandler(...) (0000ms, 0695ms total)
+T14D8 000:697 JLINK_ExecCommand("ProjectFile = "E:\mcu\my MCU program\STM32\STM32F10x_StdPeriph_Lib_V3.3.0\Project\自定义标准模板\MDK-ARM\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0695ms total)
+T14D8 000:701 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x00 (0000ms, 0696ms total)
+T14D8 000:702 JLINK_TIF_Select(JLINKARM_TIF_JTAG)  returns 0x00 (0000ms, 0696ms total)
+T14D8 000:702 JLINK_SetSpeed(2000) (0001ms, 0696ms total)
+T14D8 000:706 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0697ms total)
+T14D8 000:707 JLINK_GetDLLVersion()  returns 42800 (0000ms, 0697ms total)
+T14D8 000:707 JLINK_GetFirmwareString(...) (0000ms, 0697ms total)
+T14D8 000:713 JLINK_GetDLLVersion()  returns 42800 (0000ms, 0697ms total)
+T14D8 000:713 JLINK_GetCompileDateTime() (0000ms, 0697ms total)
+T14D8 000:715 JLINK_GetFirmwareString(...) (0000ms, 0697ms total)
+T14D8 000:717 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0697ms total)
+T14D8 000:726 JLINK_GetIdData(...) >0x2F8 JTAG>Could not measure total IR len. TDO is constant high. >0x30 JTAG>CPU core not found. (0009ms, 0697ms total)
+T14D8 001:838 JLINK_Close() >0x08 JTAG> (0062ms, 0706ms total)
